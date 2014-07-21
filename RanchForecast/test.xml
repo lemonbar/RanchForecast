@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classes>
+    <class>
+        <offering>test offering</offering>
+        <location>test location</location>
+        <href>classes</href>
+        <begin>2014-07-19 12:23:23</begin>
+    </class>
+    <class>
+        <offering>name02</offering>
+        <location>location02</location>
+        <href>test</href>
+        <begin>2014-07-19 12:23:23</begin>
+    </class>
+    <class>
+        <offering>name03</offering>
+        <location>location03</location>
+        <href>www.baidu.com</href>
+        <begin>2014-07-19 12:23:23</begin>
+    </class>
+    <class>
+        <offering>name04</offering>
+        <location>location04</location>
+        <href>www.baidu.com</href>
+        <begin>2014-07-19 12:23:23</begin>
+    </class>
+    <class>
+        <offering>name05</offering>
+        <location>location05</location>
+        <href>www.baidu.com</href>
+        <begin>2014-07-19 12:23:23</begin>
+    </class>
+    <class>
+        <offering>name02</offering>
+        <location>location02</location>
+        <href>www.baidu.com</href>
+        <begin>2014-07-19 12:23:23</begin>
+    </class>
+    <class>
+        <offering>name02</offering>
+        <location>location02</location>
+        <href>www.baidu.com</href>
+        <begin>2014-07-19 12:23:23</begin>
+    </class>
+    <class>
+        <offering>name02</offering>
+        <location>location02</location>
+        <href>www.baidu.com</href>
+        <begin>2014-07-19 12:23:23</begin>
+    </class>
+    <class>
+        <offering>name02</offering>
+        <location>location02</location>
+        <href>www.baidu.com</href>
+        <begin>2014-07-19 12:23:23</begin>
+    </class>
+    <class>
+        <offering>name02</offering>
+        <location>location02</location>
+        <href>www.baidu.com</href>
+        <begin>2014-07-19 12:23:23</begin>
+    </class>
+    <class>
+        <offering>name02</offering>
+        <location>location02</location>
+        <href>www.baidu.com</href>
+        <begin>2014-07-19 12:23:23</begin>
+    </class>
+</classes>
